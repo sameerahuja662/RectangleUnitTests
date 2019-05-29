@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sameer Ahuja\\source\\repos\\Assg1Rectangle\\Assg1Rectangle\\Assg1Rectangle.csproj",
+      "projectUniqueName": "C:\\Users\\Sameer Ahuja\\Documents\\Conestoga course\\Semester 2\\Software QA\\Assg1Rectangle\\Assg1Rectangle\\Assg1Rectangle.csproj",
       "projectName": "Assg1Rectangle",
-      "projectPath": "C:\\Users\\Sameer Ahuja\\source\\repos\\Assg1Rectangle\\Assg1Rectangle\\Assg1Rectangle.csproj",
+      "projectPath": "C:\\Users\\Sameer Ahuja\\Documents\\Conestoga course\\Semester 2\\Software QA\\Assg1Rectangle\\Assg1Rectangle\\Assg1Rectangle.csproj",
       "packagesPath": "C:\\Users\\Sameer Ahuja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sameer Ahuja\\source\\repos\\Assg1Rectangle\\Assg1Rectangle\\obj\\",
+      "outputPath": "C:\\Users\\Sameer Ahuja\\Documents\\Conestoga course\\Semester 2\\Software QA\\Assg1Rectangle\\Assg1Rectangle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
