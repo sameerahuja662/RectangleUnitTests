@@ -1,0 +1,10 @@
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\bin\Debug\net45\Assg1Rectangle.exe
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\bin\Debug\net45\Assg1Rectangle.pdb
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\bin\Debug\net45\nunit.framework.dll
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\net45\Assg1Rectangle.csprojAssemblyReference.cache
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\net45\Assg1Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\net45\Assg1Rectangle.AssemblyInfoInputs.cache
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\net45\Assg1Rectangle.AssemblyInfo.cs
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\net45\Assg1Rectangle.csproj.CopyComplete
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\net45\Assg1Rectangle.exe
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\net45\Assg1Rectangle.pdb
