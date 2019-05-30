@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Assg1Rectangle
 {
-    class Rectangle
+    public class Rectangle
     {
         //Private variables that store the Length and Width of a Rectangle.
         private int length;

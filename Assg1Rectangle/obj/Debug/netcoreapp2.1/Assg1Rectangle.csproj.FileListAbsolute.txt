@@ -1,0 +1,11 @@
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\bin\Debug\netcoreapp2.1\Assg1Rectangle.deps.json
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\bin\Debug\netcoreapp2.1\Assg1Rectangle.runtimeconfig.json
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\bin\Debug\netcoreapp2.1\Assg1Rectangle.runtimeconfig.dev.json
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\bin\Debug\netcoreapp2.1\Assg1Rectangle.dll
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\bin\Debug\netcoreapp2.1\Assg1Rectangle.pdb
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\netcoreapp2.1\Assg1Rectangle.csprojAssemblyReference.cache
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\netcoreapp2.1\Assg1Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\netcoreapp2.1\Assg1Rectangle.AssemblyInfoInputs.cache
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\netcoreapp2.1\Assg1Rectangle.AssemblyInfo.cs
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\netcoreapp2.1\Assg1Rectangle.dll
+C:\Users\Sameer Ahuja\Documents\Conestoga course\Semester 2\Software QA\Assg1Rectangle\Assg1Rectangle\obj\Debug\netcoreapp2.1\Assg1Rectangle.pdb
